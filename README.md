@@ -1,4 +1,4 @@
-# Juspay Automation 🚀
+#  Automation Test 🚀
 
 ## Overview
 This project is an **automation framework** using **Selenium WebDriver and Java** to automate **Juspay's** functionalities, including login, product search, and checkout on **Flipkart**.
